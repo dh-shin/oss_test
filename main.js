@@ -4,4 +4,4 @@ function addNum(x, y) {
 
 let a = 1, b;
 
-let c, d;
+let c = 3, d = 4;
