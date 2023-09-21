@@ -4,4 +4,10 @@ function addNum(x, y) {
 
 let a = 1, b;
 
-let c = 1, d = 2;
+let c = 3, d = 2;
+
+for (let i = 0; i < 10; i++) {
+    if (i % 2 === 0) console.log(i);
+}
+
+
