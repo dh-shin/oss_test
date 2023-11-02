@@ -5,6 +5,9 @@
 - Learning ...
 - Practicing ...
 
+## Image Example
+![Cat image](/images/cat.jpg)
+
 ## Code Example
 ```js
 let x = [1, 2, 3].map(function (x) {
